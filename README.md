@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 ![title](images/picture-cover.jpeg)
 
-I am currently at the end of a **Web Developer** training at BeCode, in Liège, Belgium and I am looking for an **internship** to gain more skills and a first professional experience as a developer.
+I am currently at the end of a **Web Developer** training at BeCode, in Liège, Belgium and I'm starting an **internship** at **AppiMonkey** to gain more skills and a first professional experience as a developer.
 
 Qualified in **graphic design**, I am now following a career path towards **Front-end development**.
 
